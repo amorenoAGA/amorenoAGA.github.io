@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes|PT+Sans|Roboto+Slab');
+body {
+  background-color: black;
+  color: white;
+  font-family: 'PT Sans', sans-serif;
+}
+h1 {
+    text-align: center;
+  text-decoration: overline;
+  font-size: 60px;
+  font-family: 'Roboto Slab', serif;
+  background-color: white;
+  border: 5px solid black;
+  padding: 30px;
+  margin-bottom: 60px;
+  color: black;
+}
+
+h1:hover{
+  background-color: blue;
+}
+
+h2 {
+text-align: center;
+  }
+
+h3 {
+  font-family: 'Great Vibes', cursive;
+  text-align: center;
+  font-size: 55px;
+}
+
+ul{
+  text-align: center;
+}
+.bluz {
+  color: blue;
+  font-style: italic;
+}
